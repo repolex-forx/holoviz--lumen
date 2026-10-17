@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/holoviz/lumen/commit/296c796a1438cb149fc8741b7f0d2aaf47a766ae",
       "git:hexsha": "296c796a1438cb149fc8741b7f0d2aaf47a766ae",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T00:09:19.374226+00:00"
     },
     {
       "@id": "https://repolex.ai/r/holoviz/lumen/commit/7126cc1900610af869fd93e675dfec8c9655a715",
