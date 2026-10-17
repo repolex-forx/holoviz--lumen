@@ -1,0 +1,11 @@
+{
+  "org": "holoviz",
+  "repo": "lumen",
+  "versions": [
+    {
+      "commit": "296c796a1438cb149fc8741b7f0d2aaf47a766ae",
+      "tag": "",
+      "parsed_at": "2026-10-17T00:09:19.375903+00:00"
+    }
+  ]
+}
